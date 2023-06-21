@@ -1,6 +1,6 @@
 # YouTube Website Clone
 
-## A responsive React JS application consisting of stunning video sections, custom categories, channel pages, and most importantly, you can play videos straight from your YouTube Clone App!
+## A responsive React JS application consisting of stunning video sections, custom categories, and channel pages, and most importantly, you can play videos straight from your YouTube Clone App!
 
 - Responsive Website Using React JS, Material UI, and Rapid API.
 - Developed first with the Mobile First methodology, then for desktop.
@@ -8,4 +8,4 @@
 
 ## [Website Demo](https://youtube-website-clone.netlify.app/)
 
-![screencapture-youtube-website-clone-netlify-app-2022-09-03-08_59_26](https://user-images.githubusercontent.com/62913154/188266302-8dc7e703-63ea-4eda-ba74-04acc14f772a.png)
+![Screenshot 2023-06-21 144944](https://github.com/alisamirali/youtube-website-clone/assets/62913154/5a810f5e-37a9-4b17-b26d-17372b1fe84c)
