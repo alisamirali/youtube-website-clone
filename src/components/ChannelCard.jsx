@@ -30,7 +30,9 @@ const ChannelCard = ({ channelDetail, marginTop }) => (
       >
         <CardMedia
           image={
-            channelDetail?.snippet?.thumbnails?.high?.url || demoProfilePicture
+            (channelDetail?.snippet?.thumbnails?.high?.url ||
+              demoProfilePicture) &&
+            "https://yt3.googleusercontent.com/ytc/AGIKgqMl9TL4OpwS8Zc5jHrNnfO01f_Wbovye9mQzfp36Q=s176-c-k-c0x00ffffff-no-rj-mo"
           }
           alt={channelDetail?.snippet?.title}
           sx={{
